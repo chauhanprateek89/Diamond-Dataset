@@ -1,0 +1,1 @@
+Read the pdf file for results of hypothesis testing and report of diamonds dataset.
